@@ -3,7 +3,7 @@
 This repository presents our advanced machine learning pipeline developed for the **Burnout 2025 Datathon**.  
 Our objective was to predict **MotoGP riders' average lap times** with high precision by modeling complex racing dynamics using ensemble learning and domain-driven feature engineering.
 
-🔗 [View our Kaggle Notebook](https://www.kaggle.com/code/pranalichitre/notebook911854fcba?scriptVersionId=245457168)
+🔗 [View my Kaggle Notebook](https://www.kaggle.com/code/pranalichitre/notebook911854fcba?scriptVersionId=245457168)
 
 ---
 
@@ -66,12 +66,11 @@ Our objective was to predict **MotoGP riders' average lap times** with high prec
 
 ## 👥 Team
 - **Pranali Chitre** – Data Science & Modeling Lead  
-- *(Add other team members if applicable)*
 
----
 
 ## 📬 Contact
-For any queries or feedback, feel free to reach out via GitHub or connect on [LinkedIn](https://www.linkedin.com/in/pranalichitre/).
+For any queries or feedback, feel free to reach out via GitHub or connect on [LinkedIn](
+https://www.linkedin.com/in/pranali-chitre/).
 
 ---
 
