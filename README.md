@@ -60,10 +60,7 @@ Our objective was to predict **MotoGP riders' average lap times** with high prec
 | File | Description |
 |------|-------------|
 | `solution.csv` | Final predictions in correct submission format |
-| `train.csv` / `test.csv` | Provided dataset files |
-| `model.ipynb` | Full pipeline (EDA → Feature Engineering → Modeling) |
 | `README.md` | This documentation |
-| `burnout_ppt.pptx` | 10-slide final presentation (Round 2) |
 
 ---
 
